@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="de.grundid.opendatalab.geojson.jackson" type="repository">
+    <properties maven-id="de.grundid.opendatalab:geojson-jackson:1.8.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/geojson-jackson-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.9.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
